@@ -33,7 +33,7 @@ main_dropdown:
        url: /standards/
 
 offering_menus:
- -
+  -
     term: W24
     baseurl: /
     items:
