@@ -63,7 +63,7 @@ For reviewees, it can be really tough to be out front representing your team as 
 
 It may be helpful to resist this urge.
 
-## What if we disagree with the reviewer's assesssment?
+## What if we disagree with the reviewer's assessment?
 
 That's ok.  It's ok to just nod and let it go.
 
